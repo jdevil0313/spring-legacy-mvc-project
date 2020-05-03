@@ -1,5 +1,5 @@
 # spring-legacy-mvc-project 스프링 프로젝트 생성
-## 추가한 라이브러리
+### 추가한 라이브러리
 * 스프링 시큐리티(Spring Security)
 * 타일즈(Tiles)
 * 마이바티스(MyBatis) - MariaDB
@@ -8,7 +8,7 @@
 * 하이버네이트 밸리데이터(Hibernate Validator)
 * AOP
 
-## 버전정보
+### 버전정보
 * java-version 1.8
 * org.springframework-version 4.3.2.RELEASE
 * org.aspectj-version 1.9.5
