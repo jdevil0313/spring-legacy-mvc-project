@@ -9,7 +9,7 @@
 * AOP
 
 ## 버전정보
-> java-version 1.8
+> * java-version 1.8
 > org.springframework-version 4.3.2.RELEASE
 > org.aspectj-version 1.9.5
 > org.slf4j-version 1.7.30
